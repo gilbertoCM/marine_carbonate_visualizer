@@ -27,11 +27,11 @@ The tool displays real-time updates for:
 
 - **pH (total scale)** - Seawater pH
 
-- **Ωa** - Aragonite saturation
+- **Ωₐ** - Aragonite saturation state
 
   
 
-> The interface uses the **viridis color palette**, optimized for color vision accessibility.
+> The interface uses the **Cividis color palette**, optimized for color vision accessibility.
 
   
 
@@ -46,6 +46,10 @@ The tool displays real-time updates for:
 
  
   - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
+
+  - **📋 Alternative Notebooks**: 
+    - [Explorer Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
+    - [pH & CO₂ Focus](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_ph_co2.ipynb)
 
   
 
@@ -64,7 +68,7 @@ If you encounter any issues:
 
 2. **Wait 1-2 minutes** - Binder may be building the environment
 
-3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=%2Fdoc%2Ftree%2Fmarine_carbonate_TA_DIC.ipynb)
+3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
 
   
 
