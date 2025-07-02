@@ -13,4 +13,4 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - nbconvert
+  - nbconvertan
