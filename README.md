@@ -21,6 +21,10 @@ The tool displays real-time updates for:
 ## 🌐 **Alternative Access Methods**
 
 - **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb) ✅ **WORKING**
+
+https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb
+
+
 - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
 - **📋 Notebook with Educational Notes**: [Launch with Notes](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer_with_notes.ipynb)
 
