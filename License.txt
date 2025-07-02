@@ -1,0 +1,16 @@
+# Actualizar el archivo LICENSE.txt con el nuevo nombre del proyecto
+
+updated_license = """Marine Carbonate Visualizer © José Gilberto Cardoso Mohedano
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.
+
+You are free to share and adapt the material for non-commercial purposes, provided that proper credit is given to the author.
+"""
+
+# Guardar el archivo actualizado
+updated_license_path = "/mnt/data/LICENSE.txt"
+with open(updated_license_path, "w", encoding="utf-8") as f:
+    f.write(updated_license)
+
+updated_license_path

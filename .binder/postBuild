@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Registrar el kernel con un nombre descriptivo
+python -m ipykernel install --user --name=carbonate_explorer --display-name "Python (Carbonate Explorer)"
+
+# Activar soporte para widgets en Voilà
+jupyter nbextension enable --py widgetsnbextension --sys-prefix || true
