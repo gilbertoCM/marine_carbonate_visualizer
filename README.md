@@ -2,7 +2,7 @@
 
   
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
 
   
 
@@ -42,10 +42,14 @@ The tool displays real-time updates for:
 ## 🌐 **Alternative Access Methods**
 
   
-- **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb) ✅ **WORKING**
+- **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb) 
 
  
-  - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
+  - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
+
+  - **🔍 Test Links**:
+    - [Jupyter Interface First](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main) (check if notebook exists)
+    - [Alternative HEAD branch](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
 
   
 
@@ -64,7 +68,7 @@ If you encounter any issues:
 
 2. **Wait 1-2 minutes** - Binder may be building the environment
 
-3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
+3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
 
   
 
