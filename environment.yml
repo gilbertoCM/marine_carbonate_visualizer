@@ -6,6 +6,7 @@ dependencies:
   - notebook
   - voila
   - ipywidgets
+  - plotly
   - pyco2sys
   - numpy
   - pandas
