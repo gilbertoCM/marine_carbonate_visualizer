@@ -1,24 +1,27 @@
-# 🌊 Carbonate System Explorer (using PyCO2SYS + Voilà)
+# 🌊 Marine Carbonate Visualizer
+
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
 
 This interactive educational tool allows users to explore how changes in **Dissolved Inorganic Carbon (DIC)** and **Total Alkalinity (TA)** affect the seawater carbonate system.
 
-Designed for students, researchers, and educators, the tool displays real-time updates for:
+## 🚀 **Quick Start**
 
-- **pCO₂ (µatm)**
-- **HCO₃⁻ and CO₃²⁻ (µmol/kg)**
-- **pH (total scale)**
+**👆 Click the "Launch Binder" badge above** to run the interactive app in your browser - no installation required!
+
+The tool displays real-time updates for:
+
+- **pCO₂ (µatm)** - Partial pressure of CO₂
+- **HCO₃⁻ and CO₃²⁻ (µmol/kg)** - Bicarbonate and carbonate concentrations  
+- **pH (total scale)** - Seawater pH
 
 > The interface uses the **Cividis color palette**, optimized for color vision accessibility.
 
 ---
 
-## 🚀 Launch the App Online (via Binder + Voilà)
+## 🌐 **Alternative Access Methods**
 
-Click here to launch the interactive version without installing anything:
-
-👉 [Launch on Binder](https://mybinder.org/v2/gh/YOUR_USERNAME/YOUR_REPOSITORY/main?urlpath=voila/render/carbonate_print_accessible.ipynb)
-
-*(Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your GitHub info)*
+- **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
+- **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?filepath=marine_carbonate_explorer.ipynb)
 
 ---
 
@@ -26,7 +29,7 @@ Click here to launch the interactive version without installing anything:
 
 - [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS): For carbonate chemistry calculations
 - [ipywidgets](https://ipywidgets.readthedocs.io/): For interactive sliders
-- [Plotly](https://plotly.com/python/): For numeric indicators
+- [HTML/CSS](https://developer.mozilla.org/): For visual indicators and styling
 - [Voilà](https://voila.readthedocs.io/): To convert notebooks into web apps
 
 ---
@@ -42,7 +45,7 @@ Ciudad del Carmen, Campeche, México
 
 ## 🤖 AI-Assisted Development
 
-This teaching tool was developed with the support of **ChatGPT (OpenAI)** for Python code generation, accessibility enhancements, and markdown documentation.
+This teaching tool was developed with the support of **Claude AI (Anthropic)** and **ChatGPT (OpenAI)** for Python code generation, Voilà optimization, accessibility enhancements, and documentation.
 
 ---
 
