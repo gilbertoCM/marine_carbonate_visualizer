@@ -23,6 +23,16 @@ The tool displays real-time updates for:
 - **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
 - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?filepath=marine_carbonate_explorer.ipynb)
 
+### 🔧 **Troubleshooting**
+
+If you encounter a **404 error** or the links don't work:
+
+1. **Try the alternative branch link**: [Launch with HEAD](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
+2. **Clear your browser cache** and try again
+3. **Wait 1-2 minutes** - Binder may be building the environment
+4. **Use the standard Jupyter interface** first: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
+5. If nothing works, try the **notebook with notes**: [marine_carbonate_explorer_with_notes.ipynb](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_explorer_with_notes.ipynb)
+
 ---
 
 ## 🧪 Technologies Used
