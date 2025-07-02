@@ -64,7 +64,7 @@ If you encounter any issues:
 
 2. **Wait 1-2 minutes** - Binder may be building the environment
 
-3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_TA_DIC.ipynb/HEAD)
+3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=%2Fdoc%2Ftree%2Fmarine_carbonate_TA_DIC.ipynb)
 
   
 
