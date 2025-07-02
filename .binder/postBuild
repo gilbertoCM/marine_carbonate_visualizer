@@ -1,7 +1,11 @@
 #!/bin/bash
 
-# Registrar el kernel con un nombre descriptivo
+# Enable ipywidgets for both Jupyter and Voilà
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+jupyter labextension install @jupyter-widgets/jupyterlab-manager --no-build || true
+
+# Register the kernel
 python -m ipykernel install --user --name=carbonate_explorer --display-name "Python (Carbonate Explorer)"
 
-# Activar soporte para widgets en Voilà
-jupyter nbextension enable --py widgetsnbextension --sys-prefix || true
+# Enable Voilà preview extension
+jupyter serverextension enable voila --sys-prefix
