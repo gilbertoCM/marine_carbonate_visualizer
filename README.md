@@ -1,6 +1,6 @@
 # 🌊 Marine Carbonate Visualizer
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
 
 This interactive educational tool allows users to explore how changes in **Dissolved Inorganic Carbon (DIC)** and **Total Alkalinity (TA)** affect the seawater carbonate system.
 
@@ -20,18 +20,19 @@ The tool displays real-time updates for:
 
 ## 🌐 **Alternative Access Methods**
 
-- **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
-- **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?filepath=marine_carbonate_explorer.ipynb)
+- **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb) ✅ **WORKING**
+- **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
+- **📋 Notebook with Educational Notes**: [Launch with Notes](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer_with_notes.ipynb)
 
 ### 🔧 **Troubleshooting**
 
-If you encounter a **404 error** or the links don't work:
+**✅ Current Status: All links working correctly!**
 
-1. **Try the alternative branch link**: [Launch with HEAD](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
-2. **Clear your browser cache** and try again
-3. **Wait 1-2 minutes** - Binder may be building the environment
-4. **Use the standard Jupyter interface** first: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
-5. If nothing works, try the **notebook with notes**: [marine_carbonate_explorer_with_notes.ipynb](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_explorer_with_notes.ipynb)
+If you encounter any issues:
+
+1. **Clear your browser cache** and try again (Ctrl+F5)
+2. **Wait 1-2 minutes** - Binder may be building the environment
+3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
 
 ---
 
