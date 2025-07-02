@@ -47,10 +47,6 @@ The tool displays real-time updates for:
  
   - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD)
 
-  - **📋 Alternative Notebooks**: 
-    - [Explorer Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_explorer.ipynb)
-    - [pH & CO₂ Focus](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_ph_co2.ipynb)
-
   
 
 ### 🔧 **Troubleshooting**
