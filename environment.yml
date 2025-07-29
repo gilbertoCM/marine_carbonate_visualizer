@@ -1,12 +1,12 @@
 name: carbonate_env
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
+  - notebook
+  - voila
+  - ipywidgets
   - pandas
   - numpy
   - matplotlib
   - pyco2sys
-  - ipywidgets
-  - voila
