@@ -2,11 +2,11 @@
 
   
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC_plot.ipynb)
 
   
 
-This interactive educational tool allows users to explore how changes in **Dissolved Inorganic Carbon (DIC)** and **Total Alkalinity (TA)** affect the seawater carbonate system.
+This interactive educational tool allows users to explore how changes in **Dissolved Inorganic Carbon (DIC)** and **Total Alkalinity (TA)** affect the seawater carbonate system using **Bjerrum plot visualization**.
 
   
 
@@ -14,26 +14,21 @@ This interactive educational tool allows users to explore how changes in **Disso
 
   
 
-**👆 Click the "Launch Binder" badge above** to run the interactive app in your browser - no installation required!
+**👆 Click the "Launch Binder" badge above** to run the interactive Bjerrum plot app in your browser - no installation required!
   
 
-The tool displays real-time updates for:
-
-  
-
-- **pCO₂ (µatm)** - Partial pressure of CO₂
-
-- **HCO₃⁻ and CO₃²⁻ (µmol/kg)** - Bicarbonate and carbonate concentrations  
-
-- **pH (total scale)** - Seawater pH
-
-- **Ωₐ** - Aragonite saturation state
+The tool displays real-time Bjerrum plot analysis with:
 
   
 
-> The interface uses the **Cividis color palette**, optimized for color vision accessibility.
+- **📈 Bjerrum Plot** - Species fractions (α) vs pH showing CO₂, HCO₃⁻, and CO₃²⁻ distribution
+- **🥧 Current Composition** - Pie chart of species at current pH  
+- **⚖️ Aragonite Saturation State** - Ωₐ visualization
+- **📋 System Parameters** - Complete numerical results and conditions
 
   
+
+> The interface uses the **Viridis color palette**, scientifically optimized for data visualization and accessibility.  
 
 ---
 
@@ -42,14 +37,14 @@ The tool displays real-time updates for:
 ## 🌐 **Alternative Access Methods**
 
   
-- **📱 Voilà App (Clean Interface)**: [Launch Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb) 
+- **📱 Voilà App (Clean Interface)**: [Launch Bjerrum Plot Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC_plot.ipynb) 
 
  
   - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
 
-  - **🔍 Test Links**:
-    - [Jupyter Interface First](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main) (check if notebook exists)
-    - [Alternative HEAD branch](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
+  - **🔍 Alternative Notebooks**:
+    - [Simple TA-DIC Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb) (basic visualization)
+    - [Alternative HEAD branch](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC_plot.ipynb)
 
   
 
