@@ -1,0 +1,12 @@
+name: marine-carbonate
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib=3.10.3
+  - numpy
+  - ipywidgets=8.1.5
+  - ipython
+  - jupyter
+  - voila=0.5.8
+  - PyCO2SYS=1.8.3
