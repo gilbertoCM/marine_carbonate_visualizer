@@ -2,7 +2,7 @@
 
   
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC_plot.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
 
   
 
@@ -37,14 +37,14 @@ The tool displays real-time Bjerrum plot analysis with:
 ## 🌐 **Alternative Access Methods**
 
   
-- **📱 Voilà App (Clean Interface)**: [Launch Bjerrum Plot Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC_plot.ipynb) 
+- **📱 Voilà App (Clean Interface)**: [Launch TA-DIC Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb) 
 
  
-  - **📓 Jupyter Notebook (With Code)**: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
+- **📓 Jupyter Notebook (With Code)**: [Launch Jupyter Lab](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
 
-  - **🔍 Alternative Notebooks**:
-    - [Simple TA-DIC Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb) (basic visualization)
-    - [Alternative HEAD branch](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/HEAD?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC_plot.ipynb)
+- **🔍 Alternative Notebooks (Voilà - Clean Interface)**:
+    - [TA-pCO2 Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pCO2.ipynb) (ocean acidification focus)
+    - [TA-pH Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pH.ipynb) (pH control focus)
 
   
 
@@ -52,7 +52,7 @@ The tool displays real-time Bjerrum plot analysis with:
 
   
 
-**✅ Current Status: All links working correctly!**
+**✅ Current Status: Using Voilà for clean interface!**
 
   
 
