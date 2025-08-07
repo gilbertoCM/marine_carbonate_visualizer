@@ -4,7 +4,12 @@ Interactive **Bjerrum plot visualizations** for learning marine carbonate chemis
 
 ## 🚀 **Quick Start - Choose Your Tool**
 
-### 📱 **Clean Interface (Recommended for Students)**
+### ⚡ **Fast Loading (Recommended for Quick Access)**
+- **🧪 TA-DIC System**: [Complete Carbonate Explorer - Fast](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC_fast.ipynb)
+- **🌊 TA-pCO2 System**: [Ocean Acidification Explorer - Fast](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pCO2_fast.ipynb)  
+- **⚖️ TA-pH System**: [pH Control Explorer - Fast](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pH_fast.ipynb)
+
+### 📱 **Full Documentation Version**
 - **🧪 TA-DIC System**: [Complete Carbonate Explorer](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
 - **🌊 TA-pCO2 System**: [Ocean Acidification Explorer](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pCO2.ipynb)  
 - **⚖️ TA-pH System**: [pH Control Explorer](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pH.ipynb)
@@ -20,14 +25,19 @@ Each tool shows a **4-panel Bjerrum plot**:
 3. **⚖️ Aragonite Saturation** - Shell/coral formation potential (Ω value)
 4. **📋 System Parameters** - All your inputs and calculated results
 
+**⚡ Fast vs Full Versions:**
+- **Fast**: Minimal documentation, optimized for quick loading (~30 seconds)
+- **Full**: Complete educational content with detailed explanations (~60-90 seconds)
+
 ## ⚗️ **Technology**
 Uses **[PyCO2SYS](https://github.com/mvdh7/PyCO2SYS)** - the same software used by oceanographic researchers worldwide.
 
 ## 🔧 **If Binder Gets Stuck**
-- **Try clicking the badge again** - sometimes needs 2 attempts
-- **Wait 2-3 minutes** if it shows "Building..." 
+- **⚡ Try Fast Version First** - Loads in ~30 seconds vs 60-90 seconds for full version
+- **Click badge again** if it shows "Building..." for more than 3 minutes
+- **Wait patiently** - First load can take 2-5 minutes depending on server
 - **Clear browser cache** (Ctrl+F5) and retry
-- **Alternative**: Use [Jupyter Lab](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main) instead
+- **Alternative**: Use [Jupyter Lab](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main) for full access
 
 ---
 
