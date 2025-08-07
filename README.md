@@ -1,9 +1,5 @@
 # 🌊 Marine Carbonate System Visualizer
 
-[![Launch TA-DIC](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
-[![Launch TA-pCO2](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pCO2.ipynb)
-[![Launch TA-pH](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pH.ipynb)
-
 Interactive **Bjerrum plot visualizations** for learning marine carbonate chemistry. Essential for studying ocean acidification, coral reef health, and marine ecosystem responses to climate change.
 
 ## 🚀 **Quick Start - Choose Your Tool**
