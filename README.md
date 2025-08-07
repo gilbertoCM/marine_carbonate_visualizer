@@ -1,105 +1,42 @@
-# 🌊 Marine Carbonate Visualizer
+# 🌊 Marine Carbonate System Visualizer
+
+
+Interactive **Bjerrum plot visualizations** for learning marine carbonate chemistry. Essential for studying ocean acidification, coral reef health, and marine ecosystem responses to climate change.
+
+## 🚀 **Quick Start - Choose Your Tool**
+
+### 📱 **Clean Interface (Recommended for Students)**
+- **🧪 TA-DIC System**: [![Launch TA-DIC](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
+
+- **🌊 TA-pCO2 System**: [![Launch TA-pCO2](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pCO2.ipynb)
+
+- **⚖️ TA-pH System**: [![Launch TA-pH](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pH.ipynb)
+
+### 📓 **Want to See and Edit the Code?**
+- **👨‍💻 Full Jupyter Lab**: [Access All Notebooks](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main) 
+- **🔧 Edit Your Own Conditions**: Modify parameters, constants, and calculations
+
+## 📊 **What You'll See**
+Each tool shows a **4-panel Bjerrum plot**:
+1. **📈 Bjerrum Plot** - How pH controls carbonate species (CO₂, HCO₃⁻, CO₃²⁻)
+2. **🥧 Current Composition** - Pie chart of species at current pH
+3. **⚖️ Aragonite Saturation** - Shell/coral formation potential (Ω value)
+4. **📋 System Parameters** - All your inputs and calculated results
+
 
   
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
-
-  
-
-This interactive educational tool allows users to explore how changes in **Dissolved Inorganic Carbon (DIC)** and **Total Alkalinity (TA)** affect the seawater carbonate system using **Bjerrum plot visualization**.
-
-  
-
-## 🚀 **Quick Start**
-
-  
-
-**👆 Click the "Launch Binder" badge above** to run the interactive Bjerrum plot app in your browser - no installation required!
-  
-
-The tool displays real-time Bjerrum plot analysis with:
-
-  
-
-- **📈 Bjerrum Plot** - Species fractions (α) vs pH showing CO₂, HCO₃⁻, and CO₃²⁻ distribution
-- **🥧 Current Composition** - Pie chart of species at current pH  
-- **⚖️ Aragonite Saturation State** - Ωₐ visualization
-- **📋 System Parameters** - Complete numerical results and conditions
-
-  
-
-> The interface uses the **Viridis color palette**, scientifically optimized for data visualization and accessibility.  
+## ⚗️ **Technology**
+Uses **[PyCO2SYS](https://github.com/mvdh7/PyCO2SYS)** - the same software used by oceanographic researchers worldwide.
 
 ---
 
-  
+## 👤 **Author**
+**José-Gilberto Cardoso-Mohedano** | [ORCID: 0000-0002-2918-972X](https://orcid.org/0000-0002-2918-972X)  
+Instituto de Ciencias del Mar y Limnología, UNAM | Ciudad del Carmen, México
 
-## 🌐 **Alternative Access Methods**
-
-  
-- **📱 Voilà App (Clean Interface)**: [Launch TA-DIC Voilà](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb) 
-
- 
-- **📓 Jupyter Notebook (With Code)**: [Launch Jupyter Lab](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
-
-- **🔍 Alternative Notebooks (Voilà - Clean Interface)**:
-    - [TA-pCO2 Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pCO2.ipynb) (ocean acidification focus)
-    - [TA-pH Version](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pH.ipynb) (pH control focus)
-
-  
-
-### 🔧 **Troubleshooting**
-
-  
-
-**✅ Current Status: Using Voilà for clean interface!**
-
-  
-
-If you encounter any issues:
-
-  
-1. **Clear your browser cache** and try again (Ctrl+F5)
-
-2. **Wait 1-2 minutes** - Binder may be building the environment
-
-3. **Use the Jupyter interface** if Voilà has problems: [Launch Jupyter](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main)
-
-  
-
----
-
-  
-
-## 🧪 Technologies Used
-
-  
-
-- [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS): For carbonate chemistry calculations
-
-- [ipywidgets](https://ipywidgets.readthedocs.io/): For interactive sliders
-
-- [HTML/CSS](https://developer.mozilla.org/): For visual indicators and styling
-
-- [Voilà](https://voila.readthedocs.io/): To convert notebooks into web apps
-
-  
-
----
-
-  
-
-## 👤 Author
-
-  
-
-### **José-Gilberto Cardoso-Mohedano**  
-
-[ORCID: 0000-0002-2918-972X](https://orcid.org/0000-0002-2918-972X)  
-
-Estación El Carmen, Instituto de Ciencias del Mar y Limnología, UNAM  
-
-Ciudad del Carmen, Campeche, México
+## 📚 **License**
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/) Non-commercial use with attribution.Ciudad del Carmen, Campeche, México
 
  
 
