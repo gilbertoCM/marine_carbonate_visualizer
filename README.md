@@ -14,7 +14,17 @@ Interactive **Bjerrum plot visualizations** for learning marine carbonate chemis
 
 ## 🚀 **Quick Start - Choose Your Tool**
 
-### 📱 **Interactive Applications (Voilà Interface)**
+### ⚡ **Recommended: Runs In Your Browser (JupyterLite)**
+No server, no waiting queue, no installation. Everything runs locally in your own browser.
+
+- **▶️ [Open the Visualizer](https://gilbertocm.github.io/marine_carbonate_visualizer/lab/index.html)**
+
+Open any of the three notebooks and choose **Run → Run All Cells**. The first cell installs
+PyCO2SYS inside the browser (15–30 s the first time; instant afterwards, thanks to caching).
+
+### 📱 **Alternative: Voilà Interface via Binder (slower)**
+Cleaner interface, but each user needs a server container — expect 2–5 minutes to load,
+and it may fail under classroom-sized concurrent use.
 - **🧪 TA-DIC System**: [Complete Carbonate Explorer](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_DIC.ipynb)
 - **🌊 TA-pCO2 System**: [Ocean Acidification Explorer](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pCO2.ipynb)  
 - **⚖️ TA-pH System**: [pH Control Explorer](https://mybinder.org/v2/gh/gilbertoCM/marine_carbonate_visualizer/main?urlpath=voila%2Frender%2Fmarine_carbonate_TA_pH.ipynb)

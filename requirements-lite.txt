@@ -1,0 +1,8 @@
+# Dependencias para CONSTRUIR el sitio JupyterLite (no se usan en el navegador).
+# Las librerias cientificas (PyCO2SYS, numpy, matplotlib) se instalan en el
+# navegador del alumno via la primera celda de cada notebook.
+jupyterlite-core==0.5.0
+jupyterlite-pyodide-kernel==0.5.2
+jupyterlab~=4.3.0
+notebook~=7.3.0
+jupyterlab-widgets~=3.0.13
