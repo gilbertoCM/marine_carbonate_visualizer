@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [v1.0.1-beta] – 2026-07-31
+
+### Added
+- JupyterLite deployment for browser-based execution without server dependency.
+- Dynamic salinity and temperature variables across all notebooks.
+
+### Improved
+- Enhanced marine color palette for consistent visual branding.
+- Eliminated Binder queue wait times through local browser execution.
+
+---
+
 ## [v1.0.0-beta] – 2025-08-07
 
 ### Added
